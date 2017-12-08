@@ -1,0 +1,25 @@
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\aliyun-net-sdk-core.dll
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\aliyun-net-sdk-vod.dll
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Aliyun.OSS.dll
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\taburiss\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\aliyun-net-sdk-core.dll
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\aliyun-net-sdk-vod.dll
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\Aliyun.OSS.dll
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Taburiss\Documents\visual studio 2015\Projects\ConsoleApplication1\Aliyun-VOD-Upload.Net\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Aliyun-VOD-Upload.Net\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\WorkSpace\Aliyun-VOD-Upload.Net\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\WorkSpace\Aliyun-VOD-Upload.Net\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
